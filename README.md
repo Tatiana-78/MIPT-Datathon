@@ -14,6 +14,7 @@ ____
 * https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/noutbuki-ultrabuki - каталог по категории "Ноутбуки и ультрабуки"
 * https://www.wildberries.ru/webapi/menu/main-menu-ru-ru.json - список всех каталогов wildberries
 * https://static-basket-01.wb.ru/vol0/data/main-menu-ru-ru.json - json с категориями товаров
+* группа https://vk.com/@happython-parser-wildberries
 * файлы, размещенные в каталоге data - перечень ноутбуков в формате xls и файл с сырыми данными из парсера
 
 ### Авторы
