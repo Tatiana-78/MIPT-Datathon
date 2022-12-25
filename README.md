@@ -11,9 +11,9 @@ ____
 С помощью датасета можно предсказывать/сравнивать цены ноутбуков в зависимости от их характеристик.
 
 ### Источники данных
-https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/noutbuki-ultrabuki - каталог по категории "Ноутбуки и ультрабуки"
-https://www.wildberries.ru/webapi/menu/main-menu-ru-ru.json - список всех каталогов wildberries
-https://static-basket-01.wb.ru/vol0/data/main-menu-ru-ru.json - json с категориями товаров
+* https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/noutbuki-ultrabuki - каталог по категории "Ноутбуки и ультрабуки"
+* https://www.wildberries.ru/webapi/menu/main-menu-ru-ru.json - список всех каталогов wildberries
+* https://static-basket-01.wb.ru/vol0/data/main-menu-ru-ru.json - json с категориями товаров
 
 ### Авторы
 Богдан Костюк, Игнат Поздеев, Анатолий Кайда
